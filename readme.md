@@ -6,12 +6,12 @@ URL    | [udacity.com](https://www.udacity.com/course/ios-developer-nanodegree--
 
 ####Portfolio Apps
 
-- [Pitch Perfect](Pitch Perfect)
-- [Meme Me](Meme me) 
-- [Meme Me 2](Meme me 2) 
-<<<<<<< HEAD
-- [On The Map](On The Map)
-=======
- 
-Descriptions: [Udacity.com](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
->>>>>>> 92491ba... Update readme.md
+App | Specification
+-------|--------------
+[Pitch Perfect](Pitch Perfect)|[docs.google.com](https://docs.google.com/document/d/1giyVDlOLBPUyNDVf_Eyqt0Oyxb-3sUDKPFK-XBkZNbc/pub?embedded=true)
+[Meme Me](Meme me) |[docs.google.com](https://docs.google.com/document/d/1bt-SoB1GgqLebcT2mtE6hglkByzlxrobR5eHFMGPcTg/pub?embedded=true)
+[Meme Me 2](Meme me 2) |[docs.google.com](https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true)
+[On The Map](On The Map)|[docs.google.com](https://docs.google.com/document/d/1tPF1tmSzVYPSbpl7_JCeMKglKMIs3dUa4OrSAKEYNAs/pub?embedded=true)
+
+
+Course Description: [Udacity.com](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
